@@ -1,0 +1,8 @@
+Exercise: Bicep Curl
+Total Reps: 5
+Average Accuracy: 74.09%
+
+Feedback Summary:
+- Too low
+- Too high
+- Good form

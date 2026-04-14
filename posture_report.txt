@@ -1,0 +1,4 @@
+Exercise: Squat
+Reps: 5
+Average Accuracy: 59.75
+Date: 2026-01-24 16:07:36.135170
